@@ -7,4 +7,4 @@
 - 💬 Ask me about uni and life of a programmer.
 - 📫 How to reach me: elnganha@gmail.com
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: Time is redeemable :D
+- ⚡ Fun fact: I randomly chose Software Engineering as my major - Best choiee!
