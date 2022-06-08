@@ -1,7 +1,20 @@
-### Hi there 👋
+### Remember to stay healthy and innovative! 🏊‍♀️
 
-- 🔭 I’m currently working on a QnA Portal project.
-- 🌱 I’m currently learning C# and Tailwind.
-- 📫 How to reach me: elnganha@gmail.com
-- 😄 Pronouns: she/her.
-- ⚡ Fun fact: Before switching to Compsci, I took Business!
+## Hi, I'm Ha. 🌸🌰
+
+Here, you will witness how things work inside a brain of
+- 💻 an avid software engineering junior
+- 🎨 an occasional manga artist/designer
+- 🎹 a mediocre pianist
+- 🌌 a space enthusiast
+- 🥋 a nostalgic martial artist
+
+## Bucket list
+- [x] 👯‍♀️ Make friends
+- [ ] 🐱‍💻 Make an RPG like Pokemon
+- [ ] ✈ Travel
+- [ ] 🌏 Program and help the world!
+
+```
+System.out.println("Explore World.");
+```
