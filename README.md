@@ -11,6 +11,5 @@ Here, you will witness how things work inside a brain of
 
 ```
 System.out.println("Java is my comfort zone but I'm learning C# rn!");
-// 
 ```
 ### Stay healthy and innovative! 🏊‍♀️
