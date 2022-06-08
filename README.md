@@ -9,7 +9,7 @@ Here, you will witness how things work inside a brain of
 - 🌌 a space enthusiast
 - 🥋 a nostalgic martial artist
 
-## Bucket list
+## Bucket list 🧭
 - [x] 👯‍♀️ Make friends
 - [ ] 🐱‍💻 Make an RPG like Pokemon
 - [ ] ✈ Travel
