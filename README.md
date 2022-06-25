@@ -16,7 +16,6 @@
   Hi, it's Ha 
   <img src="https://media3.giphy.com/media/iutaMJnccZLwrnBaPO/giphy.gif?cid=ecf05e47ujpz1yon2b9xp06oony3undr6yiesxrbcra67d23&rid=giphy.gif&ct=s" width="20"/>
 </h1>
----
 
 ### :woman_technologist: About Me 
 
